@@ -46,5 +46,5 @@ Keeping the lights green and the alerts quiet (mostly).
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=visitors&color=00ff99&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=itMegu&label=visitors&color=00ff99&style=flat" alt="visitor badge"/>
 </p>
