@@ -28,7 +28,7 @@ Keeping the lights green and the alerts quiet (mostly).
 
 ### 📜 Certifications
 
-`Linux+` • `LFCS` • `LPI-1` *(in progress)*
+*(in progress)*
 
 ---
 
