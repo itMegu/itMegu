@@ -22,9 +22,6 @@ currently: learning to keep the blinking lights happy 🚨
 
 ---
 
-
----
-
 ### 🧰 TECH STACK
 
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)  
