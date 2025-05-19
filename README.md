@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=4350&lines=Hi!+I%E2%80%99m+Alja%C5%BE+%F0%9F%91%8B;currently%3A+battling+cron+demons+%F0%9F%A4%B9%E2%80%8D%E2%99%82%EF%B8%8F;currently%3A+blaming+DNS+%F0%9F%98%85;currently%3A+fixing+what+I+broke+5+minutes+ago;currently%3A+SSHd+into+the+wrong+server;currently%3A+silencing+alerts+before+anyone+notices" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=756&lines=Hi!+I%E2%80%99m+Alja%C5%BE+%F0%9F%91%8B;currently%3A+battling+cron+demons+%F0%9F%A4%B9%E2%80%8D%E2%99%82%EF%B8%8F;currently%3A+blaming+DNS+%F0%9F%98%85;currently%3A+fixing+what+I+broke+5+minutes+ago;currently%3A+SSHd+into+the+wrong+server;currently%3A+silencing+alerts+before+anyone+notices" alt="Typing SVG" /></a>
 
 
 ---
